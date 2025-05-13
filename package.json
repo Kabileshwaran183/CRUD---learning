@@ -1,0 +1,15 @@
+{
+  "name": "crud-learning",
+  "version": "1.0.0",
+  "description": "Crud learning app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Kabileshwaran183/CRUD---learning.git"
+  },
+  "author": "Kabileshwaran B",
+  "license": "ISC"
+}
