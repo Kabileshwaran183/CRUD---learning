@@ -12,5 +12,8 @@
     "url": "github.com/Kabileshwaran183/CRUD---learning.git"
   },
   "author": "Kabileshwaran B",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
